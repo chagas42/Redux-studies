@@ -4,7 +4,7 @@
 
 ## 📝Sobre
 
-Aplicativo para visualização de escalas de trabalhos dos Cobradores e Motoristas do [**Grupo Leblon de Transporte**](http://leblonibus.com.br/)
+Repo criado com o objetivo de aprofundar os estudos nesta tecnologia.
 
 ---
 ## 🚀 Tecnologias utilizadas:
@@ -12,10 +12,8 @@ Aplicativo para visualização de escalas de trabalhos dos Cobradores e Motorist
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [React Navigation 5](https://reactnavigation.org/)
 - [Redux](https://redux.js.org/)
-- [React-Native-Svg](https://github.com/react-native-svg/react-native-svg)
-- [Style-Components](https://styled-components.com/)
+- [Styled-Components](https://styled-components.com/)
 
 ---
 ## 📦  Como baixar o projeto:
@@ -23,15 +21,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 ```bash
     
     # Clonar o repositório
-    $ git clone https://github.com/chagas42/leblonApp
+    $ git clone https://github.com/chagas42/Redux-studies
 
     # Entrar no diretório
-    $ cd leblonApp
+    $ cd Redux-studies
 
     # Instalar as dependências 
-    $ npm install 
+    $ yarn 
 
     # Iniciar o projeto
-    $ npx react-native run-android
+    $ yarn start
 ```
 Desenvolvido com ❤ por [Junior Chagas](https://github.com/chagas42).
